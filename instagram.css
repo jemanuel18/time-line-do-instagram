@@ -1,0 +1,45 @@
+body {
+    background-color: white;
+}
+
+.box {
+    border-style: ridge;
+    border-radius: 10px;
+    width: 16cm;
+    margin-top: 10px;
+}
+
+.perfil {
+    border-radius: 200px;
+    float: left;
+    margin-top: -22px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+
+}
+
+.post {
+    width: 605px;
+}
+
+.espaço {
+    width: 3%;
+    padding: 5px;
+}
+
+.emoji {
+    width: 4%;
+}
+
+.cinza {
+    color: gray;
+}
+
+strong {
+    color: black;
+}
+
+a {
+    padding-left: 350px;
+}
